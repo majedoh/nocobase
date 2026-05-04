@@ -1,0 +1,24 @@
+{
+  "name": "@nocobase/plugin-iu-documents",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Document Management",
+  "displayName.zh-CN": "إدارة الوثائق - الجامعة الإسلامية",
+  "description": "Document request, template management, and digital archive for the Islamic University of Madinah. Handles student letter requests, approval workflows, and document generation.",
+  "description.ar-EG": "نظام إدارة طلبات الوثائق والقوالب والأرشيف الرقمي للجامعة الإسلامية بالمدينة المنورة. يعالج طلبات خطابات الطلاب وسير عمل الموافقات وإنشاء الوثائق.",
+  "license": "AGPL-3.0",
+  "keywords": [
+    "nocobase",
+    "plugin",
+    "iu",
+    "documents",
+    "archive"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/database": "1.x"
+  },
+  "devDependencies": {}
+}

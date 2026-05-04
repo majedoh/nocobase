@@ -1,0 +1,24 @@
+{
+  "name": "@nocobase/plugin-iu-student-profile",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Student Profile",
+  "displayName.zh-CN": "ملف الطالب - الجامعة الإسلامية",
+  "description": "Student 360° CRM profile for the Islamic University of Madinah. Manages student records, interaction notes, and academic flags.",
+  "description.ar-EG": "ملف الطالب الشامل 360° لنظام إدارة علاقات الطلاب بالجامعة الإسلامية بالمدينة المنورة. يدير سجلات الطلاب والملاحظات والتنبيهات الأكاديمية.",
+  "license": "AGPL-3.0",
+  "keywords": [
+    "nocobase",
+    "plugin",
+    "iu",
+    "student",
+    "crm"
+  ],
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/database": "1.x"
+  },
+  "devDependencies": {}
+}
