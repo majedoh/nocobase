@@ -1,0 +1,16 @@
+{
+  "name": "@nocobase/plugin-iu-admissions",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Admissions Pipeline",
+  "displayName.ar-EG": "خط القبول - الجامعة الإسلامية",
+  "description": "Multi-stage admissions pipeline with Kanban tracking for the Islamic University of Madinah. Manages applicant records, document verification, committee decisions, visa processing, and scholarship allocation across 170 nationalities.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "admissions", "pipeline"],
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/database": "1.x"
+  }
+}

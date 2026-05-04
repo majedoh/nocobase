@@ -1,0 +1,12 @@
+{
+  "name": "@nocobase/plugin-iu-financial-aid",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Financial Aid & Stipends",
+  "displayName.ar-EG": "المساعدات المالية والمكافآت - الجامعة الإسلامية",
+  "description": "Scholarship stipend management, disbursement tracking, financial aid requests, and hold management for the Islamic University of Madinah.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "financial-aid", "stipend"],
+  "dependencies": {},
+  "peerDependencies": { "@nocobase/client": "1.x", "@nocobase/server": "1.x", "@nocobase/database": "1.x" }
+}

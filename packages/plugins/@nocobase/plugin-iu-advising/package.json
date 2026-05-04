@@ -1,0 +1,16 @@
+{
+  "name": "@nocobase/plugin-iu-advising",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Academic Advising",
+  "displayName.ar-EG": "الإرشاد الأكاديمي - الجامعة الإسلامية",
+  "description": "Academic advising system with appointment scheduling, session documentation, and early-alert intervention tracking for the Islamic University of Madinah.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "advising", "appointments"],
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/database": "1.x"
+  }
+}

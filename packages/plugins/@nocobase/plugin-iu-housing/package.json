@@ -1,0 +1,12 @@
+{
+  "name": "@nocobase/plugin-iu-housing",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Housing Management",
+  "displayName.ar-EG": "إدارة الإسكان - الجامعة الإسلامية",
+  "description": "Student dormitory management: buildings, rooms, assignments, and maintenance requests for the Islamic University of Madinah.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "housing", "dormitory"],
+  "dependencies": {},
+  "peerDependencies": { "@nocobase/client": "1.x", "@nocobase/server": "1.x", "@nocobase/database": "1.x" }
+}
