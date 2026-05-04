@@ -1,0 +1,16 @@
+{
+  "name": "@nocobase/plugin-iu-portal",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Portal Configuration",
+  "displayName.ar-EG": "تهيئة بوابة الجامعة الإسلامية",
+  "description": "Master portal plugin that auto-configures navigation, pages, and dashboard for the IU CRM.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "portal", "dashboard"],
+  "dependencies": {},
+  "peerDependencies": {
+    "@nocobase/client": "1.x",
+    "@nocobase/server": "1.x",
+    "@nocobase/database": "1.x"
+  }
+}
