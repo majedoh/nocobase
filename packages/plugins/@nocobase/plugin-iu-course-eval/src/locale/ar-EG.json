@@ -1,0 +1,11 @@
+{
+  "Evaluation Periods": "فترات التقييم", "Evaluation Responses": "استجابات التقييم",
+  "Period Name (Arabic)": "اسم الفترة (عربي)", "Semester": "الفصل الدراسي",
+  "Open Date": "تاريخ الفتح", "Close Date": "تاريخ الإغلاق", "Active": "نشط",
+  "Period": "الفترة", "Course Code": "رمز المقرر", "Course Name": "اسم المقرر",
+  "Instructor": "المحاضر", "College": "الكلية",
+  "Teaching Quality (1-5)": "جودة التدريس (1-5)", "Course Content (1-5)": "محتوى المقرر (1-5)",
+  "Assessment Fairness (1-5)": "عدالة التقييم (1-5)", "Learning Environment (1-5)": "بيئة التعلم (1-5)",
+  "Overall Rating (1-5)": "التقييم العام (1-5)", "Strengths": "نقاط القوة",
+  "Suggested Improvements": "مقترحات التطوير", "Submit Evaluation": "تقديم التقييم"
+}
