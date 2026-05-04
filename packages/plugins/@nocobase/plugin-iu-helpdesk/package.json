@@ -1,0 +1,12 @@
+{
+  "name": "@nocobase/plugin-iu-helpdesk",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Helpdesk & Ticketing",
+  "displayName.ar-EG": "مكتب المساعدة والتذاكر - الجامعة الإسلامية",
+  "description": "IT helpdesk and general support ticketing for students and employees of the Islamic University of Madinah.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "helpdesk", "ticketing"],
+  "dependencies": {},
+  "peerDependencies": { "@nocobase/client": "1.x", "@nocobase/server": "1.x", "@nocobase/database": "1.x" }
+}

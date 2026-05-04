@@ -1,0 +1,13 @@
+{
+  "Venues": "Venues", "Venue Bookings": "Venue Bookings", "Fleet Vehicles": "Fleet Vehicles",
+  "Venue Name (Arabic)": "Venue Name (Arabic)", "Venue Name (English)": "Venue Name (English)",
+  "Venue Type": "Venue Type", "Location": "Location", "Capacity": "Capacity",
+  "Equipment": "Equipment", "Available": "Available",
+  "Booking Number": "Booking Number", "Venue": "Venue", "Event Title": "Event Title",
+  "Date": "Date", "Start Time": "Start Time", "End Time": "End Time",
+  "Expected Attendees": "Expected Attendees", "Special Requirements": "Special Requirements", "Status": "Status",
+  "Plate Number": "Plate Number", "Vehicle Type": "Vehicle Type", "Make/Model": "Make/Model",
+  "Year": "Year", "Mileage (km)": "Mileage (km)", "Next Service Date": "Next Service Date",
+  "Assigned Driver": "Assigned Driver",
+  "Book Venue": "Book Venue", "Confirm Booking": "Confirm Booking", "Cancel Booking": "Cancel Booking"
+}

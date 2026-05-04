@@ -1,0 +1,12 @@
+{
+  "Support Tickets": "تذاكر الدعم", "Ticket Replies": "الردود", "Knowledge Base": "قاعدة المعرفة",
+  "Ticket Number": "رقم التذكرة", "Subject": "الموضوع", "Description": "الوصف",
+  "Category": "التصنيف", "Priority": "الأولوية", "Status": "الحالة",
+  "Requester Type": "نوع المستخدم", "Assigned To": "مسند إلى", "Assigned Team": "الفريق المسند",
+  "Resolved At": "تاريخ الحل", "Resolution": "الحل", "Satisfaction (1-5)": "التقييم (1-5)",
+  "Ticket": "التذكرة", "Reply Content": "محتوى الرد", "Internal Note": "ملاحظة داخلية",
+  "Reply Type": "نوع الرد", "Title (Arabic)": "العنوان (عربي)", "Title (English)": "العنوان (إنجليزي)",
+  "Content": "المحتوى", "Published": "منشور", "View Count": "عدد المشاهدات",
+  "Helpful Count": "عدد الإفادة", "Submit Ticket": "تقديم تذكرة", "Reply": "رد",
+  "Assign": "تعيين", "Escalate": "تصعيد", "Resolve": "حل", "Close": "إغلاق", "Reopen": "إعادة فتح"
+}

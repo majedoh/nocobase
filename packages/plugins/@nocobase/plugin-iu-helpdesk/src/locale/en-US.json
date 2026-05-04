@@ -1,0 +1,12 @@
+{
+  "Support Tickets": "Support Tickets", "Ticket Replies": "Ticket Replies", "Knowledge Base": "Knowledge Base",
+  "Ticket Number": "Ticket Number", "Subject": "Subject", "Description": "Description",
+  "Category": "Category", "Priority": "Priority", "Status": "Status",
+  "Requester Type": "Requester Type", "Assigned To": "Assigned To", "Assigned Team": "Assigned Team",
+  "Resolved At": "Resolved At", "Resolution": "Resolution", "Satisfaction (1-5)": "Satisfaction (1-5)",
+  "Ticket": "Ticket", "Reply Content": "Reply Content", "Internal Note": "Internal Note",
+  "Reply Type": "Reply Type", "Title (Arabic)": "Title (Arabic)", "Title (English)": "Title (English)",
+  "Content": "Content", "Published": "Published", "View Count": "View Count",
+  "Helpful Count": "Helpful Count", "Submit Ticket": "Submit Ticket", "Reply": "Reply",
+  "Assign": "Assign", "Escalate": "Escalate", "Resolve": "Resolve", "Close": "Close", "Reopen": "Reopen"
+}

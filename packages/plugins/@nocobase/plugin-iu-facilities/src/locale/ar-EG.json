@@ -1,0 +1,13 @@
+{
+  "Venues": "المرافق والقاعات", "Venue Bookings": "حجوزات المرافق", "Fleet Vehicles": "أسطول المركبات",
+  "Venue Name (Arabic)": "اسم المرفق (عربي)", "Venue Name (English)": "اسم المرفق (إنجليزي)",
+  "Venue Type": "نوع المرفق", "Location": "الموقع", "Capacity": "السعة",
+  "Equipment": "التجهيزات", "Available": "متاح",
+  "Booking Number": "رقم الحجز", "Venue": "المرفق", "Event Title": "عنوان الفعالية",
+  "Date": "التاريخ", "Start Time": "وقت البداية", "End Time": "وقت النهاية",
+  "Expected Attendees": "العدد المتوقع", "Special Requirements": "متطلبات خاصة", "Status": "الحالة",
+  "Plate Number": "رقم اللوحة", "Vehicle Type": "نوع المركبة", "Make/Model": "الشركة/الموديل",
+  "Year": "السنة", "Mileage (km)": "عداد المسافة (كم)", "Next Service Date": "موعد الصيانة القادم",
+  "Assigned Driver": "السائق المعين",
+  "Book Venue": "حجز مرفق", "Confirm Booking": "تأكيد الحجز", "Cancel Booking": "إلغاء الحجز"
+}

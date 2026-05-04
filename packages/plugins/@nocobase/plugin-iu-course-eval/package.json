@@ -1,0 +1,12 @@
+{
+  "name": "@nocobase/plugin-iu-course-eval",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU Course Evaluation",
+  "displayName.ar-EG": "تقييم المقررات - الجامعة الإسلامية",
+  "description": "Anonymous course and instructor evaluation system for the Islamic University of Madinah.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "evaluation", "course"],
+  "dependencies": {},
+  "peerDependencies": { "@nocobase/client": "1.x", "@nocobase/server": "1.x", "@nocobase/database": "1.x" }
+}

@@ -1,0 +1,12 @@
+{
+  "Employees": "Employees", "Employee": "Employee", "User Account": "User Account", "Employee ID": "Employee ID",
+  "Name (Arabic)": "Name (Arabic)", "Name (English)": "Name (English)", "Job Title": "Job Title",
+  "Employee Type": "Employee Type", "Academic Rank": "Academic Rank", "Department": "Department",
+  "Join Date": "Join Date", "Nationality": "Nationality", "Phone": "Phone", "Emergency Contact": "Emergency Contact",
+  "Status": "Status", "Leave Requests": "Leave Requests", "Leave Balances": "Leave Balances",
+  "Request Number": "Request Number", "Leave Type": "Leave Type", "Start Date": "Start Date", "End Date": "End Date",
+  "Total Days": "Total Days", "Reason": "Reason", "Approved By": "Approved By", "Rejection Reason": "Rejection Reason",
+  "Delegate To": "Delegate To", "Year": "Year", "Entitlement (days)": "Entitlement (days)",
+  "Used (days)": "Used (days)", "Remaining (days)": "Remaining (days)",
+  "Submit Leave": "Submit Leave", "Approve": "Approve", "Reject": "Reject", "Cancel Leave": "Cancel Leave"
+}

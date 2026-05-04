@@ -1,0 +1,12 @@
+{
+  "name": "@nocobase/plugin-iu-hr",
+  "version": "1.0.0-alpha.1",
+  "main": "dist/server/index.js",
+  "displayName": "IU HR Self-Service",
+  "displayName.ar-EG": "الخدمة الذاتية للموارد البشرية - الجامعة الإسلامية",
+  "description": "Employee HR self-service portal: leave requests, attendance tracking, employee profiles, and performance records for the Islamic University of Madinah.",
+  "license": "AGPL-3.0",
+  "keywords": ["nocobase", "plugin", "iu", "hr", "employee"],
+  "dependencies": {},
+  "peerDependencies": { "@nocobase/client": "1.x", "@nocobase/server": "1.x", "@nocobase/database": "1.x" }
+}
